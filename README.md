@@ -1,6 +1,6 @@
 # ITPetroJobs
 PetroJobs Alert for IT positions when user login to his machine at Morning 
-Get notified about new IT Jobs in PetroJobs listed in https://www.petrojobs.om at computer startup
+Get notified about new IT Jobs in PetroJobs listed in https://www.petrojobs.om
 
 Requirements:
 -NodeJS to be Installed 
